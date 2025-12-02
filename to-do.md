@@ -25,11 +25,11 @@
 
 ## Task 5 — Create the Routes (`routes/movieRoutes.js`)
 
-- [ ] Create an Express router instance.
-- [ ] Import controller functions from `movieController.js`.
-- [ ] Define the `GET /search` route for movie searches.
-- [ ] Define the `GET /movies/:id` route for movie details.
-- [ ] Export the router.
+- [x] Create an Express router instance.
+- [x] Import controller functions from `movieController.js`.
+- [x] Define the `GET /search` route for movie searches.
+- [x] Define the `GET /movies/:id` route for movie details.
+- [x] Export the router.
 
 ---
 
