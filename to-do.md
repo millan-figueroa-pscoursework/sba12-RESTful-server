@@ -18,7 +18,7 @@
 - [x] Import Express and the movie routes file.
 - [x] Initialize an Express application instance.
 - [x] Choose a listening port (e.g., 3001).
-- [ ] Mount all movie routes under the `/api` prefix.
+- [x] Mount all movie routes under the `/api` prefix.
 - [x] Start the server and log a startup message.
 
 ---
