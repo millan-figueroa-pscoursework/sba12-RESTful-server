@@ -1,17 +1,14 @@
-```markdown
 # Movie Finder API — Project To-Do List
-
-> Tasks 1 and 2 are already complete.
 
 ---
 
 ## Task 3 — Application Structure
 
-- [ ] Create a `server.js` file in the project root.
-- [ ] Create a `routes/` directory.
-  - [ ] Inside it, create `movieRoutes.js`.
-- [ ] Create a `controllers/` directory.
-  - [ ] Inside it, create `movieController.js`.
+- [x] Create a `server.js` file in the project root.
+- [x] Create a `routes/` directory.
+  - [x] Inside it, create `movieRoutes.js`.
+- [x] Create a `controllers/` directory.
+  - [x] Inside it, create `movieController.js`.
 
 ---
 
@@ -87,4 +84,7 @@
   - [ ] `routes/`
   - [ ] `controllers/`
 - [ ] Submit the GitHub repository link.
+
+```
+
 ```
