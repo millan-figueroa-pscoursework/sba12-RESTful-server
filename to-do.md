@@ -14,12 +14,12 @@
 
 ## Task 4 — Build the Server (`server.js`)
 
-- [ ] Load environment variables using dotenv.
-- [ ] Import Express and the movie routes file.
-- [ ] Initialize an Express application instance.
-- [ ] Choose a listening port (e.g., 3001).
+- [x] Load environment variables using dotenv.
+- [x] Import Express and the movie routes file.
+- [x] Initialize an Express application instance.
+- [x] Choose a listening port (e.g., 3001).
 - [ ] Mount all movie routes under the `/api` prefix.
-- [ ] Start the server and log a startup message.
+- [x] Start the server and log a startup message.
 
 ---
 
